@@ -1,2 +1,2 @@
 # Shell
-Schell Scripts looks good,,
+Schell Scripts looks good
