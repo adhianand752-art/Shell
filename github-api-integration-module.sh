@@ -46,6 +46,4 @@ else
 fi
 
 cat $TMPFILE
-cat $TMPFILE
-
-
+echo "Welcome to Shell World"
