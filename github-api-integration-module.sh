@@ -46,5 +46,5 @@ else
 fi
 
 cat $TMPFILE
-echo "Welcome to Shell Worldspace"
+
 
